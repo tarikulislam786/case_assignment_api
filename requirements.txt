@@ -1,0 +1,1 @@
+pip install flask flask_sqlalchemy flash-httpauth flask_jwt_extended
